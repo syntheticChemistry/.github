@@ -5,7 +5,7 @@
 9 springs reproduce 175+ peer-reviewed papers in Pure Rust on commodity GPUs.
 No NumPy, no SciPy, no CUDA. f64 precision via WebGPU/WGSL.
 
-**Live site:** [primals.eco](https://primals.eco) &nbsp;|&nbsp; **Lab results:** [primals.eco/lab](https://primals.eco/lab/)
+**Live site:** [sporeprint.primals.eco](https://sporeprint.primals.eco) &nbsp;|&nbsp; **Lab results:** [sporeprint.primals.eco/lab](https://sporeprint.primals.eco/lab/)
 
 ---
 
@@ -30,7 +30,7 @@ Results are validated against paper-reported values within stated tolerances.
 GPU compute uses [barraCuda](https://github.com/ecoPrimals/barraCuda) (WebGPU/WGSL) —
 runs on any Vulkan-capable GPU (AMD, NVIDIA, Intel).
 
-Browse reproduced results: [primals.eco/lab](https://primals.eco/lab/)
+Browse reproduced results: [sporeprint.primals.eco/lab](https://sporeprint.primals.eco/lab/)
 
 ### Part of ecoPrimals
 
